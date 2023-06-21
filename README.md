@@ -1,6 +1,7 @@
 # Rice Delivery App
 
-Total amount spent: 2-3 days
+Total amount spent: 2-3 days.
+Added message box for easier understanding of the use case flow.
 
 ### Scenario
 
