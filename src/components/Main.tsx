@@ -86,7 +86,7 @@ function Main() {
     })
     .catch(error => {
       console.error('Error updating data:', error);
-      setMessage((lid=="close") ? "Error during losing lid":"Error during opening lid");
+      setMessage((lid=="close") ? "Error during closing lid":"Error during opening lid");
     });
   }
 
